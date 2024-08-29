@@ -1,0 +1,487 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+
+body{
+  font-family: "Inter", sans-serif;
+  margin: 0px;
+}
+*{
+  box-sizing: border-box;
+}
+.container {
+  width: 100%;
+  max-width: 1440px !important;
+  margin: 0 auto;
+  padding: 0px 15px;
+ 
+}
+
+.nav{
+    width: 100%;
+    box-shadow: 0px 8px 8px 0px #ccc;
+     height: 90px;
+   
+     
+    
+}
+.un-list {
+  margin-top: 26px !important;
+}
+.menu{
+    font-size: 18px !important;
+    font-weight: 400 !important;
+}
+.menu ul li a {
+    margin-right: 30px;
+}
+
+.image-1 {
+    margin-right: 51px;
+  }
+  .image-2 {
+    margin-right: 26px;
+  }
+  #right-up {
+    margin-left: 10px;
+    transform: rotate(50deg);
+    padding-left: 5px;
+  }
+  .get-cnsl {
+    background: #8c52ff !important;
+    padding: 18px 49px !important;
+    border: 1px solid transparent !important;
+    border-radius: 0px !important;
+    font-size: 18px !important;
+    font-weight: 600 !important;
+    transition: all ease-in-out 0.3s !important;
+  }
+  .get-cnsl:hover{
+    background-color: #7ed957 !important;
+    border: 1px solid transparent !important;
+    transition: all ease-in-out 0.3s !important;
+
+  }
+ 
+  li.nav-item a:hover {
+    color: #8c52ff;
+    font-weight: 600;
+}
+  
+  
+  .do{
+    background-color: none !important;
+    border: none !important;
+  }
+
+  
+  
+   .bg-image{
+    width: 100%;
+    height: 600px;
+    background-image: url(https://www.inreachvietnam.com/3cf6926de3b6c4563580/2024/05/Banner1.png) !important ;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+  }
+  .Wti{
+      font-size: 25px !important;
+      font-weight: 600 !important;
+      color: #7ED957 !important;
+      margin-bottom: 10px !important;
+      line-height: 30px !important;
+  }
+  .col-welcome{
+    margin-block: 110px !important;
+  }
+  .business{
+    font-size: 70px !important;
+   font-weight: 800 !important;
+   color: #fff !important;
+   line-height: 84px !important;
+   margin-bottom: 25px !important;
+  }
+  .get-cnsl-1 {
+    background: #8c52ff !important;
+    padding: 15px 31px !important;
+    border: 1px solid transparent !important;
+    border-radius: 0px !important;
+    font-size: 18px !important;
+    font-weight: 600 !important;
+    transition: all ease-in-out 0.3s !important;
+  }
+  .get-cnsl-1:hover{
+    background-color: #7ed957 !important;
+    border: 1px solid transparent !important;
+    transition: all ease-in-out 0.3s !important;
+
+  }
+  /*container fluid 3 content starts*/
+   .pk{
+    margin-block: 100px !important;
+    
+  }
+  .local{
+    font-size: 40px !important;
+  font-weight: 700 !important;
+  color: black;
+  margin-left: 10px;
+  }
+  .para{
+    margin-left: 10px;
+    font-size: 18px !important;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .get-cnsl-2 {
+    background: #8c52ff !important;
+    padding: 12px 20px !important;
+    border: 1px solid transparent !important;
+    border-radius: 0px !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    transition: all ease-in-out 0.3s !important;
+    margin-left: 10px;
+  }
+  .get-cnsl-2:hover{
+    background-color: #7ed957 !important;
+    border: 1px solid transparent !important;
+    transition: all ease-in-out 0.3s !important;
+
+  }
+  .one {
+    width: 100%;
+  height: 150px;
+    background-color: #F2F2F2;
+    border: 0px solid transparent;
+    border-radius: 15px;
+    margin-bottom: 50px;
+  }
+  .first{
+    background-color: green;
+  }
+  .bold-number{
+    color: white;
+    font-size: 80px;
+    margin-left: 15px;
+  }
+  .second{
+    background-color:#5023a9 ;
+  }
+  .third{
+    background-color:#a1231d ;
+  }
+  .col-2.image {
+    margin-top: 44px;
+  }
+  .text {
+    margin-top: 14px;
+  }
+  .heading{
+    font-size: 25px !important;
+  font-weight: 500 !important;
+  line-height: 29px !important;
+  }
+  .para-1{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    word-spacing: 2px;
+  }
+/*container four content ends*/
+
+  /* container five content starts*/
+  .bg-color{
+    width: 100vw;
+    background-color: #f8f9fa;
+  }
+  .four-col{
+    padding-block: 80px !important;
+
+  }
+  .market{
+    box-shadow: rgba(0, 0, 0, 0.35) 10px 12px 21px;
+  padding: 37px 14px;
+  width: 320px !important;
+  height: 321px !important;
+  border-radius: 10px;
+  margin-bottom: 22px;
+  }
+  .heading-5 {
+    margin-top: 56px;
+  }
+  .heading-5-2 {
+    margin-top: 22px;
+  }
+  .heading-5-3 {
+    margin-top: 12px;
+  }
+  .entry{
+    font-size: 19px;
+    font-weight: 600;
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
+  .row.easy-start{
+    padding-block: 80px !important;
+  }
+  /*container five content ends*/
+  /*contaner six starts*/
+  .with-inreach{
+   padding-block: 80px;
+  }
+  .dark-text{
+    font-size: 40px !important;
+  font-weight: 700 !important;
+  margin-left: 10px;
+  padding-bottom: 21px;
+  }
+  .text-p{
+    color: rgba(110, 110, 110, 1);
+    font-size: 19px;
+    font-weight: 500;
+    margin-left: 10px;
+  }
+
+  /*contaner six ends*/
+  /* container for 3 images starts */
+  .girl-with-tab {
+    width: 423px;
+  }
+  .digital{
+    background-color: #144100;
+    padding-top: 21px;
+    padding-bottom: 28px; 
+    border-bottom: 0px solid transparent;
+    border-radius: 5px;
+   }
+  .digital-h4{
+  font-size: 20px !important;
+  font-weight: 500 !important;
+  line-height: 30px !important;
+  color: white;
+  }
+  .digital-p{
+    font-size: 18px !important;
+    color: white;
+  }
+  .start{
+    background-color: #144100;
+    padding: 10px;
+    border: opx solid transparent;
+    border-radius: 50px;
+  }
+  .start-button{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+
+  }
+  .start-button:hover{
+    color: white;
+    text-decoration: none;
+  }
+  /*image 2starts*/
+  .digital-2{
+    background-color: #844df0;
+    padding-top: 21px;
+    padding-bottom: 28px; 
+    border-bottom: 0px solid transparent;
+    border-radius: 5px; 
+  }
+  .start-2{
+    background-color: #844df0;
+    padding: 10px;
+    border: opx solid transparent;
+    border-radius: 50px;
+  }
+  .start-button-2{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+
+  }
+  .start-button-2:hover{
+    color: white;
+    text-decoration: none;
+  }
+  /*image twi ends*/
+
+
+  /*image three starts*/
+  .digital-3{
+    background-color: #bf352e !important;
+    padding-top: 21px;
+    padding-bottom: 28px;  
+    border-bottom: 0px solid transparent;
+    border-radius: 5px;
+  }
+  .start-3{
+    background-color: #bf352e !important;
+    padding: 10px;
+    border: opx solid transparent;
+    border-radius: 50px;
+  }
+  .start-button-3{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+
+  }
+  .start-button-3:hover{
+    color: white;
+    text-decoration: none;
+  }
+  #right-up-1 {
+    margin-left: 80px;
+    transform: rotate(50deg);
+    padding-left: 5px;
+  }
+  /*image three ends*/
+  .years-of-b{
+    width: 100vw;
+    height: 280px;
+    background-image:url(http://www.inreachvietnam.com/3cf6926de3b6c4563580/2024/05/Rectangle-19.png?id=590) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 0px solid transparent;
+    border-radius: 20px;
+  }
+  .row .years{
+    padding: 90px 40px;
+  }
+  .twenty{
+    font-size: 70px;
+    font-weight: 600;
+  }
+  .years-text{
+    font-size: 20px !important;
+    font-weight: 800 !important;
+    margin-top: 10px;
+  }
+  .years-text-2{
+    font-size: 20px !important;
+    font-weight: 800 !important;
+    margin-top: 37px;
+  }
+  .years-text-3{
+    font-size: 20px !important;
+    font-weight: 800!important;
+    margin-top: 20px;
+  }
+  /* client container starts*/
+  /* h2 css starts */
+  .client{
+    padding-block: 75px !important;
+  }
+  .client-h2{
+    font-size: 40px !important;
+    font-weight: 800;
+    color: black;
+  }
+  /* h2 css ends */
+  /* client text starts*/
+  .testi{
+    margin-bottom: 50px !important;
+  }
+  .israel {
+    width: 48px;
+    
+  }
+   .background{
+    background-color:#f8f8f9 !important;
+    padding-left: 30px !important;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    border: 0px solid transparent;
+    border-radius: 15px;
+    margin-right: 41px;
+    height: 550px;
+  }
+  .background-2{
+    background-color:#f8f8f9 !important;
+    padding-left: 30px !important;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    border: 0px solid transparent;
+    border-radius: 15px;
+    margin-right: 41px;
+    height: 600px;
+  }
+  .background-3{
+    background-color:#f8f8f9 !important;
+    padding-left: 30px !important;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    border: 0px solid transparent;
+    border-radius: 15px;
+    margin-right: 41px;
+    height: 780px !important;
+  }
+  .israel-p{
+    font-size: 20px !important;
+    color: black;
+    word-spacing: 2px !important;
+    line-height: 200% !important;
+  }
+  .israel-p-1{
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+  }
+  .ido-h5{
+    font-size: 20px !important;
+    font-weight: 700 !important;
+    
+  }
+  .ido-p{
+    font-size: 14px !important;
+    font-weight: 700 !important;
+    line-height: 26px !important;
+  color: #6f36e2 !important;
+  margin-top: -5px;
+  }
+  /* footer starts*/
+  .main-footer{
+    background-color: #25272d;
+    padding-top: 80px !important;
+  }
+  .links{
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 400;
+    line-height: 215%;
+  }
+  .links:hover{
+    color: #8c52ff;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 400;
+  }
+  .link-h3{
+    font-weight: 700;
+  margin-bottom: 20px;
+  }
+  .last-c{
+    padding-bottom: 80px;
+  }
+  #icon-l{
+    margin-right: 10px !important;
+  }
+  .social{
+    color: white;
+    text-decoration: none;
+
+  }
+  .social:hover{
+    color: white;
+    text-decoration: none;
+  }
+  #fb-x-in{
+    font-size: 25px;
+    margin-right: 10px;
+  }
+  .row.social {
+    padding-bottom: 17px;
+  }
+  
